@@ -1,0 +1,5 @@
+MODULARIZACION: DIVIDIR EL PROGRAMA EN TROZOS, EN varios archivos --> las clases conectadas entre si  
+ que la clase principal es la clase del metodo main, que es la que se ejecuta.
+
+ENCAPSULACION: varias clases se comunican con metodos entre si
+ 
